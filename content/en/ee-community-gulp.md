@@ -35,3 +35,5 @@ In order to use it, you have to clone the [repo](https://github.com/gee-communit
 If you work under Linux and Mac OS X then you can make some shortcut with [sed](https://www.gnu.org/software/sed/manual/sed.html) and [pbcopy](http://osxdaily.com/2007/03/05/manipulating-the-clipboard-from-the-command-line/). If not you can still use it with some extra simple operations.
 
 You are welcome to let me know which function you will like to contain in the including files.
+
+Itiya correction.
